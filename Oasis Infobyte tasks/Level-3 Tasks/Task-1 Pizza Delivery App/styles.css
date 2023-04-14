@@ -1,0 +1,84 @@
+body {
+    font-family: helvetica;
+    font-size: 20px;
+    background-color: #201d1d;
+    color:  white;
+  }
+  
+  .column {
+    width: 500px;
+    height: 400px;
+    padding: 20px;
+  }
+  
+  #area1 {
+    width: 1500px;
+    font-size: 30px;
+    color: blue;
+  }
+  
+  #submit {
+    margin-top:30px; 
+    height: 50px;
+    width: 500px;
+    font-size: 30px;
+    background-color: lightgrey;
+  }
+  
+  input {
+     margin:0 20px 20px 20px 0;
+     height: 15px;
+  }
+  
+  #clear {
+    margin-top:30px; 
+    height: 50px;
+    width: 500px;
+    font-size: 30px;
+    background-color: lightgrey;
+  }
+  
+  
+  .orderform__fields {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .orderform__fields__label {
+    width: 200px;
+    float: left;
+  }
+  
+  .orderform__fields__input {
+    width: 300px;
+    float: left;
+  }
+  
+  .orderform__fields__input input,
+  .orderform__fields__input textarea,
+  .orderform__fields__input__city
+  .orderform__fields__input__number
+  {
+    width: 100%;
+  }
+  
+  .orderform__fields__label{
+    width: 300px;
+    float: left;
+  }
+  
+  h1{
+    font-size: 80px;
+    color: yellow;
+  }
+  
+  h4 {
+    font-size: 30px;
+    color: lightgrey;
+  }
+  
+  img {
+    height: 150px;
+    width: 200px;
+  }
